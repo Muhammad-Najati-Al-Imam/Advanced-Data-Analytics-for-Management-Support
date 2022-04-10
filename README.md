@@ -9,12 +9,13 @@ The module Advanced Data Analytics for Management Support (ADAMS) introduces stu
 
 The topics covered in the module include but are not limited to:
 
-Fundamentals of artificial neural networks
-Recurrent and convolutional neural networks for sequential data processing
-Fundamentals of natural language processing(NLP)
-Text embedding and language models
-Sentiment Analysis
-Approaches for NLP transfer learning
+* Fundamentals of artificial neural networks
+* Recurrent and convolutional neural networks for sequential data processing
+* Fundamentals of natural language processing(NLP)
+* Text embedding and language models
+* Sentiment Analysis
+* Approaches for NLP transfer learning
+###
 The module is designed as a follow-up to the module Business Analytics and Data Science (BADS). We expect students to have completed that module prior to taking ADAMS. More specifically, it is strongly recommended to join this module with a solid understanding of  (supervised) machine learning practices and algorithms. Some experience in Python programming is also expected since we use the Python programming language in tutorials. The grading of the module will be based on a practical assignment, which also involves Python programming.
 #
 **Assignment Description**
